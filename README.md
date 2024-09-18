@@ -9,7 +9,7 @@
                       <div>
                         <div class="text-white">
                             <h3 class="text-lg font-medium">Saldo Disponível:</h3>
-                            <p class="text-2xl font-bold">35000.00000000 BTC</p>
+                            <p class="text-2xl font-bold">3500.00000000 BTC</p>
                         </div>
                     </div>
 
